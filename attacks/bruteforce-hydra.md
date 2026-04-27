@@ -42,6 +42,8 @@ This behavior is clearly different from normal user login activity.
 
 ## 🔍 Observed Logs
 
+![Wazuh](../screenshots/SSH%20brute%20force.png)
+
 ### Key Indicators
 
 * **Event ID:** 4625 (Failed Login)
