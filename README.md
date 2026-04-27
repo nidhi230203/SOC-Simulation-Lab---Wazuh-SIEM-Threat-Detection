@@ -172,7 +172,7 @@ Brute Force Pattern
 
 ## 📄 Detailed Report
 
-📥 [Download SOC Incident Report](report/soc-incident-report.docx)
+📥 [Download SOC Incident Report](report//SOC%20INCIDENT%20ANALYSIS%20REPORT.docx)
 
 ---
 
