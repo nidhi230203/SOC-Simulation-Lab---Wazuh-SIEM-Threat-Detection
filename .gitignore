@@ -1,0 +1,63 @@
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Logs (IMPORTANT for SOC)
+# =========================
+*.log
+*.evtx
+*.pcap
+*.pcapng
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# =========================
+# Virtual Machine Files (DO NOT UPLOAD)
+# =========================
+*.vmdk
+*.vmem
+*.vmss
+*.vmsn
+*.nvram
+*.iso
+
+# =========================
+# Python (if any scripts used)
+# =========================
+__pycache__/
+*.pyc
+
+# =========================
+# Node (if any dashboard tools used)
+# =========================
+node_modules/
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+*.key
+*.pem
+
+# =========================
+# Large Files (Optional)
+# =========================
+*.zip
+*.tar
+*.gz
