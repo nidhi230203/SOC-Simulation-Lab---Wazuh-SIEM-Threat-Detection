@@ -91,11 +91,11 @@ Baseline logging exists, but detection coverage is limited
 
 ## 📊 Dashboard Preview
 
-![Alerts Over Time](screenshots/dashboard/alerts-over-time.png)
+![Alerts Over Time](screenshots/Alerts%20Over%20Time.png)
 
-![Alerts by Severity](screenshots/dashboard/alerts-by-severity.png)
+![Alerts by Severity](screenshots/Alerts%20by%20Severity.png)
 
-![Top Attack Types](screenshots/dashboard/top-attack-types.png)
+![Top Attack Types](screenshots/Top%20Attack%20Types.png)
 
 ---
 
