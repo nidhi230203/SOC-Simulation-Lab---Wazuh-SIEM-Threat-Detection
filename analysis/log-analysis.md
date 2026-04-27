@@ -167,8 +167,6 @@ This reinforces a key SOC concept:
 
 ---
 
-## 📸 Reference
+## 📸 Raw Logs
 
-```md
-![Wazuh Logs](../screenshots/logs/wazuh-discover.png)
-```
+![Wazuh Logs](../screenshots/logs.png)
